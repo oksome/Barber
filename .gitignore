@@ -37,3 +37,6 @@ nosetests.xml
 
 # Django DB
 db.sqlite3
+
+# PyCharm's crap
+.idea
